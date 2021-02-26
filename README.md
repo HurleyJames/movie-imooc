@@ -12,7 +12,9 @@
 
 您可以通过以下二维码访问该小程序的体验版本：
 
-![](./assets/qrcode.png)
+<center>
+  <img src="./assets/qrcode.jpg" width="150px">
+</center>
 
 ## Document
 
